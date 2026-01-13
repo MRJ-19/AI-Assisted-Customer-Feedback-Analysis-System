@@ -1,0 +1,21 @@
+# Web Interface and Visualization
+streamlit
+plotly
+wordcloud
+matplotlib
+
+# Machine Learning and Data Processing
+scikit-learn
+joblib
+pandas
+
+# API and Server
+fastapi
+pydantic
+uvicorn
+
+# LLM Integration
+langchain-ollama
+
+# Database
+# sqlite3 is part of the Python Standard Library and does not need to be listed
